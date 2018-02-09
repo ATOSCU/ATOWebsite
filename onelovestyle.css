@@ -1,0 +1,78 @@
+html body{
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	background-color:#191E19;
+}
+
+#top{
+	display: block;
+	background-image:url(background.png);
+}
+
+
+p {
+	color: white;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-weight: 600;
+	width:75%;
+	margin: 0 auto 0;
+	line-height:30px;
+	text-align: center;
+}
+
+#middle{
+	text-align: center;
+}
+
+#loveheader{
+	width: 100%;
+}
+#loveimg{
+	display: block;
+	margin:0 auto 0;
+	width:50vh;
+	height:auto; 
+}
+
+a {
+	padding: 10px;
+	border: 4px solid white;
+	border-radius: 8px;
+	font-family: 'Nanum Gothic', sans-serif;
+	text-decoration: none;
+	color: #B841A8;
+	font-weight: 800;
+}
+
+a:hover {
+	background-color:#54C6F1;
+}
+
+#sexy_line {
+	margin-top: 0;
+	width: 20vw;
+	margin-bottom: 40px;
+	border-top:2px solid white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	font-family:'Nanum Gothic', sans-serif;
+}
+
+#blue {
+	color:#54C6F1;
+}
+
+#purple {
+	color:#B841A8;
+}
+
+#blue2 {
+	color:#80A5DD;
+}
+
+#pink{
+	color:#EE45A7;
+}
